@@ -1,3 +1,4 @@
 language: node_js
+build_env: windows2012
 node_js:
   - "0.10.15"
